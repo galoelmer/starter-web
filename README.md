@@ -15,3 +15,7 @@ Ad magna fugiat ea excepteur magna cupidatat enim ex culpa cupidatat fugiat eu c
 Tempor nostrud velit laborum cillum esse est laborum officia ipsum proident anim commodo proident. Nostrud consectetur et cupidatat sit nostrud esse consectetur qui anim duis sint. Incididunt adipisicing tempor sint aliquip non duis incididunt ad sint. In nisi Lorem voluptate veniam velit mollit laborum tempor. Dolor ad nulla aliqua irure nostrud do officia aute mollit et eiusmod.
 
 ## How to Contribute
+
+### Copyright
+
+2019
